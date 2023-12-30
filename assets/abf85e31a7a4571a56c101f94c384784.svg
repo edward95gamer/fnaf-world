@@ -1,0 +1,14 @@
+<svg version="1.1" width="133.5042266845703" height="161" viewBox="1.3942101001739502 1 133.5042266845703 161" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" y2="1" x2="0">
+      <stop offset="0" stop-color="#00CCCC" stop-opacity="1"/>
+      <stop offset="1" stop-color="#001966" stop-opacity="1"/>
+    </linearGradient>
+  <linearGradient id="grad_1-,0,0,1,-160.1,-107" y2="161" x2="2.9" x1="2.9" y1="2" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00CCCC" stop-opacity="1"/>
+      <stop offset="1" stop-color="#001966" stop-opacity="1"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.9619715120643377" fill="url(#grad_1-,0,0,1,-160.1,-107)" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M 2.9 82 L 70.9 2 L 133.9 80 L 99.4 80.5 L 99.4 161 L 36.9 160.5 L 37.4 82.5 L 2.9 82 Z "/>
+  <text id="ID0.8292939281091094" fill="#E5E5E5" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(1.1971, 0, 0, 1.1971, 2.39421, 101.559)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">DEFENSE</tspan></text>
+</svg>

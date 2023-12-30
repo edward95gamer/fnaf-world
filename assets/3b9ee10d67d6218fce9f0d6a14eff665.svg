@@ -1,0 +1,65 @@
+<svg version="1.1" width="165.28515625" height="85.40625" viewBox="-1.28515625 -2 165.28515625 85.40625" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" y2="1" x2="0">
+      <stop offset="0" stop-color="#995900" stop-opacity="1"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_2" y2="1" x2="0">
+      <stop offset="0" stop-color="#995900" stop-opacity="1"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="1"/>
+    </linearGradient>
+    <radialGradient id="grad_3" cx="0.45740000000000003" cy="0.5161" r="0.70538">
+      <stop offset="0" stop-color="#E5E5E5" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF9400" stop-opacity="1"/>
+    </radialGradient>
+    <radialGradient id="grad_4" cx="0.4857" cy="0.4428" r="0.7243599999999999">
+      <stop offset="0" stop-color="#FF9400" stop-opacity="1"/>
+      <stop offset="1" stop-color="#CC7700" stop-opacity="1"/>
+    </radialGradient>
+    <radialGradient id="grad_5" cx="0.4307" cy="0.4354" r="0.74009">
+      <stop offset="0" stop-color="#FF9400" stop-opacity="1"/>
+      <stop offset="1" stop-color="#CC7700" stop-opacity="1"/>
+    </radialGradient>
+    <linearGradient id="grad_6" x2="1">
+      <stop offset="0" stop-color="#FF9400" stop-opacity="1"/>
+      <stop offset="1" stop-color="#CC7700" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_7" x2="1">
+      <stop offset="0" stop-color="#FF9400" stop-opacity="1"/>
+      <stop offset="1" stop-color="#CC7700" stop-opacity="1"/>
+    </linearGradient>
+  <radialGradient id="grad_3-,0,0,1,-194,-130" cx="47.7436" cy="54.5177" r="42.2982" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#E5E5E5" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF9400" stop-opacity="1"/>
+    </radialGradient><radialGradient id="grad_4-,0,0,1,-196,-133" cx="92.4998" cy="12.749" r="12.6763" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FF9400" stop-opacity="1"/>
+      <stop offset="1" stop-color="#CC7700" stop-opacity="1"/>
+    </radialGradient><radialGradient id="grad_5-.2307692766189575,0,0,1,-239.9,-133.5" cx="7.6066" cy="12.7487" r="11.8713" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FF9400" stop-opacity="1"/>
+      <stop offset="1" stop-color="#CC7700" stop-opacity="1"/>
+    </radialGradient><linearGradient id="grad_6-.5938271284103394,0,0,0.5938271284103394,-141.1,-50" x2="48.3309" x1="40.7596" y1="51.9898" y2="51.9898" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FF9400" stop-opacity="1"/>
+      <stop offset="1" stop-color="#CC7700" stop-opacity="1"/>
+    </linearGradient><linearGradient id="grad_7-.5938271284103394,0,0,0.5938271284103394,-141.1,-48.95" x2="56.7929" x1="32.7429" y1="59.4235" y2="59.4235" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FF9400" stop-opacity="1"/>
+      <stop offset="1" stop-color="#CC7700" stop-opacity="1"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <g id="ID0.18315103743225336">
+    <path id="ID0.8854961260221899" fill="none" stroke="url(#grad_1)" stroke-width="4" stroke-linecap="round" d="M 69.5 35.5 L 92 15 "/>
+    <path id="ID0.8854961260221899" fill="none" stroke="url(#grad_2)" stroke-width="4" stroke-linecap="round" d="M 31.55 36.75 L 9.05 16.25 "/>
+    <path id="ID0.13899665512144566" fill="url(#grad_3-,0,0,1,-194,-130)" stroke="none" stroke-linecap="round" d="M 49.75 26 C 58.783 25.964 69.69 24.596 76.5 30.5 C 82.608 35.782 82.521 46.013 82.5 54 C 82.354 62.194 82.242 72.322 76 77.5 C 69.163 83.15 58.576 81.014 49.5 81 C 41.07 80.979 30.883 82.58 24.5 77 C 18.4 71.529 18.73 61.201 18.5 53 C 18.282 45.292 18.39 35.565 24 30.5 C 30.767 24.87 41.328 26.031 49.75 26 Z " stroke-width="1"/>
+    <path id="ID0.4845482390373945" fill="url(#grad_4-,0,0,1,-196,-133)" stroke="none" d="M 92.75 5 C 95.164 5 97.352 5.98 98.936 7.564 C 100.52 9.148 101.5 11.336 101.5 13.75 C 101.5 16.164 100.52 18.352 98.936 19.936 C 97.352 21.52 95.164 22.5 92.75 22.5 C 90.336 22.5 88.148 21.52 86.564 19.936 C 84.98 18.352 84 16.164 84 13.75 C 84 11.336 84.98 9.148 86.564 7.564 C 88.148 5.98 90.336 5 92.75 5 Z " stroke-width="1"/>
+    <path id="ID0.025228738319128752" fill="#CC0000" stroke="none" d="M 162 38.5 C 162 38.5 162 38.528 162 38.573 C 162 38.619 162 38.681 162 38.75 C 162 38.819 162 38.881 162 38.927 C 162 38.972 162 39 162 39 C 162 39 162 38.972 162 38.927 C 162 38.881 162 38.819 162 38.75 C 162 38.681 162 38.619 162 38.573 C 162 38.528 162 38.5 162 38.5 Z " stroke-width="1"/>
+    <path id="ID0.21106568025425076" fill="url(#grad_5-.2307692766189575,0,0,1,-239.9,-133.5)" stroke="none" d="M 8.7154 6 C 10.9222 6 12.9222 6.868 14.3708 8.271 C 15.8194 9.674 16.7154 11.612 16.7154 13.75 C 16.7154 15.888 15.8194 17.826 14.3708 19.229 C 12.9222 20.632 10.9222 21.5 8.7154 21.5 C 6.5086 21.5 4.5086 20.632 3.06 19.229 C 1.6114 17.826 0.7154 15.888 0.7154 13.75 C 0.7154 11.612 1.6114 9.674 3.06 8.271 C 4.5086 6.868 6.5086 6 8.7154 6 Z " stroke-width="1.121336928016988"/>
+    <path id="ID0.44054458336904645" fill="#CC0000" stroke="none" d="M 35.25 0 C 35.319 0 35.381 0 35.427 0 C 35.472 0 35.5 0 35.5 0 C 35.5 0 35.472 0 35.427 0 C 35.381 0 35.319 0 35.25 0 C 35.181 0 35.119 0 35.073 0 C 35.028 0 35 0 35 0 C 35 0 35.028 0 35.073 0 C 35.119 0 35.181 0 35.25 0 Z " stroke-width="1"/>
+    <path id="ID0.8655574508011341" fill="#E5E5E5" stroke="none" d="M 57.25 35.5 C 59.94 35.5 62.377 36.565 64.142 38.284 C 65.907 40.004 67 42.379 67 45 C 67 47.621 65.907 49.996 64.142 51.716 C 62.377 53.435 59.94 54.5 57.25 54.5 C 54.56 54.5 52.123 53.435 50.358 51.716 C 48.593 49.996 47.5 47.621 47.5 45 C 47.5 42.379 48.593 40.004 50.358 38.284 C 52.123 36.565 54.56 35.5 57.25 35.5 Z " stroke-width="1"/>
+    <path id="ID0.9535660021938384" fill="#E5E5E5" stroke="none" d="M 30.85 36 C 33.402 36 35.715 36.98 37.389 38.564 C 39.064 40.148 40.1 42.336 40.1 44.75 C 40.1 47.164 39.064 49.352 37.389 50.936 C 35.715 52.52 33.402 53.5 30.85 53.5 C 28.298 53.5 25.985 52.52 24.311 50.936 C 22.636 49.352 21.6 47.164 21.6 44.75 C 21.6 42.336 22.636 40.148 24.311 38.564 C 25.985 36.98 28.298 36 30.85 36 Z " stroke-width="1"/>
+    <path id="ID0.8671734500676394" fill="#000000" stroke="none" d="M 28.0215 42.3911 C 28.9542 42.3911 29.8005 42.7589 30.4136 43.3519 C 31.0251 43.9458 31.405 44.7649 31.405 45.6696 C 31.405 46.5742 31.0251 47.3933 30.4136 47.9873 C 29.8005 48.5802 28.9542 48.948 28.0215 48.948 C 27.0888 48.948 26.2426 48.5802 25.6295 47.9873 C 25.018 47.3933 24.6381 46.5742 24.6381 45.6696 C 24.6381 44.7649 25.018 43.9458 25.6295 43.3519 C 26.2426 42.7589 27.0888 42.3911 28.0215 42.3911 Z " stroke-width="1.3344998073610628"/>
+    <path id="ID0.8671734500676394" fill="#000000" stroke="none" d="M 54.1126 42.709 C 55.1378 42.709 56.0681 43.1132 56.742 43.765 C 57.4142 44.4179 57.8318 45.3183 57.8318 46.3127 C 57.8318 47.3071 57.4142 48.2076 56.742 48.8604 C 56.0681 49.5122 55.1378 49.9165 54.1126 49.9165 C 53.0873 49.9165 52.1571 49.5122 51.4832 48.8604 C 50.811 48.2076 50.3934 47.3071 50.3934 46.3127 C 50.3934 45.3183 50.811 44.4179 51.4832 43.765 C 52.1571 43.1132 53.0873 42.709 54.1126 42.709 Z " stroke-width="1.4669310627922718"/>
+    <g id="ID0.06616531824693084">
+      <path id="ID0.6438419134356081" fill="url(#grad_6-.5938271284103394,0,0,0.5938271284103394,-141.1,-50)" stroke="none" d="M 40.7596 51.9898 L 48.3309 51.9898 L 48.3309 73.9614 L 40.7596 73.9614 L 40.7596 51.9898 Z " stroke-width="0.5938271284103394"/>
+      <path id="ID0.7028317251242697" fill="url(#grad_7-.5938271284103394,0,0,0.5938271284103394,-141.1,-48.95)" stroke="none" d="M 32.7429 59.4235 L 56.7929 59.4235 L 56.7929 67.1432 L 32.7429 67.1432 L 32.7429 59.4235 Z " stroke-width="0.5938271284103394"/>
+    </g>
+  </g>
+</svg>

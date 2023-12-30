@@ -1,0 +1,30 @@
+<svg version="1.1" width="96.609375" height="147.69921875" viewBox="0.4921875 0.75 96.609375 147.69921875" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" y2="1" x2="0">
+      <stop offset="0" stop-color="#7F7F7F" stop-opacity="1"/>
+      <stop offset="1" stop-color="#B2B2B2" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_2" y2="1" x2="0">
+      <stop offset="0" stop-color="#000000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#B2B2B2" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_3" y2="1" x2="0">
+      <stop offset="0" stop-color="#000000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#B2B2B2" stop-opacity="1"/>
+    </linearGradient>
+  <linearGradient id="grad_1-.8220338821411133,0,0,1,-151.2,-109.55" y2="147.45" x2="1.4928" x1="1.4928" y1="9.45" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7F7F7F" stop-opacity="1"/>
+      <stop offset="1" stop-color="#B2B2B2" stop-opacity="1"/>
+    </linearGradient><linearGradient id="grad_2-,0,0,1,-202,-138" y2="14" x2="2.75" x1="2.75" y1="1.75" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#B2B2B2" stop-opacity="1"/>
+    </linearGradient><linearGradient id="grad_3-,0,0,1,-202,-138" y2="147.25" x2="89.75" x1="89.75" y1="8.3984" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#B2B2B2" stop-opacity="1"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.12313590291887522" fill="url(#grad_1-.8220338821411133,0,0,1,-151.2,-109.55)" stroke="#000000" stroke-width="1.8307046202967805" d="M 1.4928 9.45 L 89.6559 14.45 L 89.6559 147.45 L 1.4928 135.95 L 1.4928 9.45 Z "/>
+  <path id="ID0.1934273298829794" fill="url(#grad_2-,0,0,1,-202,-138)" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M 8.75 1.75 L 95.25 7 L 89.75 14 L 2.75 7.75 L 8.75 1.75 Z "/>
+  <path id="ID0.5134336454793811" fill="url(#grad_3-,0,0,1,-202,-138)" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M 89.75 14.65 L 96.1 8.4 L 95.5 145.6 L 90.1 147.25 L 89.75 14.65 Z "/>
+  <text id="ID0.00354631245136261" fill="#000000" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(1.82094, 0.042633, -0.0317116, 1.35447, 12.737, 21.4219)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">RIP</tspan></text>
+</svg>
